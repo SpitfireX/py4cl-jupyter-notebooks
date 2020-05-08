@@ -35,4 +35,4 @@
         - Satzzeichen werden abgespaltet
         - URLs, E-Mail-Adressen, Twitter-Mentions/-Hashtags werden nicht zerlegt
 4. Ausblick/weiterführende Links
-    1. weitere Bibliotheken (z.B. pyre2)
+    1. weitere Bibliotheken (z.B. regex, pyre2)
