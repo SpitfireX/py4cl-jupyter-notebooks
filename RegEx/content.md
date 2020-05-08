@@ -7,7 +7,7 @@
 2. re Modul
     1. import
     2. Methodenübersicht
-        1. search/match/matchall (Unterschied)
+        1. search/match/fullmatch (Unterschied)
         2. findall/finditer (Unterschied)
             - aus E-Mail-Adressen Namen/vorderen Teil extrahieren
         3. split
