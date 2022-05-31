@@ -195,8 +195,8 @@ hängen
 gehen
 helfen
 gehen
-hören
-hören
+gehören
+gehören
 gehören
 geißeln
 kennen
@@ -469,7 +469,7 @@ wiederbekommen
 wiederholen
 winken
 winken
-wirfen
+werfen
 wirken
 wirtschaften
 wohnen
